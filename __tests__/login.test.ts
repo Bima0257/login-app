@@ -1,6 +1,6 @@
 import { POST } from '../app/api/login/route';
 import { db } from '../lib/db';
-import bcrypt from 'bcrypt';
+import bcrypt from 'bcryptjs';
 import jwt from 'jsonwebtoken';
 import { checkRateLimit } from '../lib/rateLimiter';
 

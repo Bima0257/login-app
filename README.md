@@ -28,7 +28,7 @@ A simple web application with authentication system using **Next.js App Router**
 
   * Next.js API Routes
   * JWT (Authentication)
-  * bcrypt (Password hashing)
+  * bcryptjs (Password hashing)
 
 * **Database**
 
